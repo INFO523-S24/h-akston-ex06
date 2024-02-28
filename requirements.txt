@@ -1,2 +1,6 @@
 jupyter
 nbformat
+scikit-learn
+pandas
+numpy
+seaborn
